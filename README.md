@@ -1,16 +1,22 @@
-# responsi_2_mobile_paket_3_h1d023018
+# Aplikasi Inventaris Buku
 
-A new Flutter project.
+Proyek ini dibuat untuk memenuhi tugas Responsi 2 Mata Kuliah Pemrograman Mobile.
 
-## Getting Started
+## Informasi Mahasiswa
 
-This project is a starting point for a Flutter application.
+| Keterangan | Detail |
+| :--- | :--- |
+| **Nama** | Firyal Aufa Fahrudin |
+| **NIM** | H1D023018 |
+| **Shift Baru** | F |
+| **Shift Asal** | B |
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video Demo Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video demo aplikasi dapat dilihat pada file yang tersimpan di direktori proyek:
+
+**[Demo Aplikasi: DemoAplikasi.gif]**
+
+---
