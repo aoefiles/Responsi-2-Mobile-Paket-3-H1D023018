@@ -17,7 +17,8 @@ Proyek ini dibuat untuk memenuhi tugas Responsi 2 Mata Kuliah Pemrograman Mobile
 
 Video demo aplikasi dapat dilihat pada file yang tersimpan di direktori proyek:
 
-**[Demo Aplikasi: DemoAplikasi.gif]**
+![Demo Aplikasi](DemoAplikasi.gif)
+
 
 ---
 ## Spesifikasi API yang Digunakan
